@@ -681,3 +681,7 @@ def LVE_expr(time, strain, sed):
 
 
     return stress
+
+
+
+nakjjk
